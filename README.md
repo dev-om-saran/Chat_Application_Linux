@@ -19,6 +19,7 @@ each client has following set of valid commands to proceed:
 disconnects and terminates the client.
 ➢ Ctrl+C (server side) : Ends all the chatting sessions and disconnects
 all the clients and terminates the server.
+
 Once a client gets connected to the other client, all the messages typed in the
 terminal by either of the clients (except commands) are sent to the other
 client.
